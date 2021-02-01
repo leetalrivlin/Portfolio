@@ -6,7 +6,7 @@ var gProjInfo = [
     id: '01',
     name: 'Give and Get',
     title: 'Give and Get Ingredients',
-    desc: 'cool and easy way to give and get ingredients',
+    desc: 'A cool and easy way to give and get ingredients',
     url: 'https://give-and-get-final-project.web.app/',
     published: 1448693940000,
     labels: ['Ingredients', 'Give', 'Get']
@@ -31,8 +31,8 @@ var gProjInfo = [
   },
   {
     id: '04',
-    name: 'Books Shop',
-    title: 'My Books Shop',
+    name: 'Book Shop Organizer',
+    title: 'My Book Shop',
     desc: 'Helps you put some order inside your book shop',
     url: 'https://leetalrivlin.github.io/sprint_1_Leetal/',
     published: 1448693940557,
@@ -46,6 +46,15 @@ var gProjInfo = [
     url: 'https://leetalrivlin.github.io/sprint_1_Leetal/',
     published: 1448693940558,
     labels: ['Animals', 'Read', 'Shop']
+  },
+  {
+    id: '06',
+    name: 'Pacman',
+    title: 'Get ready to get addicted',
+    desc: 'Remember Packman? well he is back! Go ahead and start playing',
+    url: 'https://leetalrivlin.github.io/sprint_1_Leetal/',
+    published: 1448693940559,
+    labels: ['Packman', 'Game', 'Blast from the past']
   },
 ];
 
