@@ -68,7 +68,7 @@ function createProj(projInfo) {
     imgThums: `img/portfolio/${projInfo.id}-thumbnail.jpg`,
     desc: `${projInfo.desc}`,
     url: `${projInfo.url}`,
-    publishedAt: `${projInfo.published}`,
+    publishedAt: `${projInfo.published}`, ////// change to normal date with a function (January 2017)
     labels: getProjLabels(projInfo.labels),
   };
   return proj;
