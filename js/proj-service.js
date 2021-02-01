@@ -25,7 +25,7 @@ var gProjInfo = [
     name: 'Touch Nums',
     title: 'Catch the next Number',
     desc: 'A fun game for number lovers',
-    url: 'https://leetalrivlin.github.io/sprint_1_Leetal/',
+    url: 'https://leetalrivlin.github.io/Touch-Nums/',
     published: 1448693940556,
     labels: ['Numbers', 'Catch', 'Speed']
   },
@@ -34,7 +34,7 @@ var gProjInfo = [
     name: 'Book Shop Organizer',
     title: 'My Book Shop',
     desc: 'Helps you put some order inside your book shop',
-    url: 'https://leetalrivlin.github.io/sprint_1_Leetal/',
+    url: 'https://leetalrivlin.github.io/Book-Shop/',
     published: 1448693940557,
     labels: ['Books', 'Read', 'Shop']
   },
@@ -43,7 +43,7 @@ var gProjInfo = [
     name: 'In Picture',
     title: 'What is in the picture?',
     desc: 'Great game for kids to learn about animals',
-    url: 'https://leetalrivlin.github.io/sprint_1_Leetal/',
+    url: 'https://leetalrivlin.github.io/In-Picture/',
     published: 1448693940558,
     labels: ['Animals', 'Read', 'Shop']
   },
@@ -52,7 +52,7 @@ var gProjInfo = [
     name: 'Pacman',
     title: 'Get ready to get addicted',
     desc: 'Remember Packman? well he is back! Go ahead and start playing',
-    url: 'https://leetalrivlin.github.io/sprint_1_Leetal/',
+    url: 'https://leetalrivlin.github.io/Pacman/',
     published: 1448693940559,
     labels: ['Packman', 'Game', 'Blast from the past']
   },

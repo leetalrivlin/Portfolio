@@ -52,6 +52,11 @@ function renderProjModal() {
                                 <p class="item-intro text-muted">${proj.title}</p>
                                 <img class="img-fluid d-block mx-auto" src="${proj.imgFull}" alt="${proj.labels}">
                                 <p>${proj.desc}</p>
+                                <a href="${proj.url}" target="_blank">
+                                <button class="open-link-btn btn btn-dark m-4 w-25" type="button">
+                                    <i class="fa fa-eye"></i>
+                                     Check it out!</button>
+                                     </a>
                                 <ul class="list-inline">
                                 <li>Date: ${proj.publishedAt}</li>
                                 <li>Client: Threads</li>
