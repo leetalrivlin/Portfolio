@@ -76,3 +76,12 @@ function renderProjModal() {
     .join('');
   $('.container-modal').html(strHTML);
 }
+
+$('#submit-form').submit(function (ev) {
+  ev.preventDefault();
+  var userEmail = $('#inputEmail').val();
+  var userSubj = $('#inputSubject').val();
+  var userTxt = $('#textarea').val();
+  var mailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=leetalrivlin@gmail.com&su=${userSubj}&body=${userTxt}${userEmail}`;
+  window.open(mailUrl);
+});
